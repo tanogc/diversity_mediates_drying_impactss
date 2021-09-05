@@ -1,0 +1,73 @@
+code	category	type
+a1	.25 cm	body_size
+a2	.25-.5 cm	body_size
+a3	.5-1 cm	body_size
+a4	1-2 cm	body_size
+a5	2-4 cm	body_size
+a6	4-8 cm	body_size
+a7	8 cm	body_size
+b1	less 1 yr	life_span
+b2	greater 1 yr	life_span
+c1	less 1 yr	generations
+c2	1 yr	generations
+c3	 greater 1 yr	generations
+d1	egg	aquatic_stage
+d2	larva	aquatic_stage
+d3	nymph	aquatic_stage
+d4	adult	aquatic_stage
+e1	ovoviviparity	reproduction
+e2	isolated eggs, free	reproduction
+e3	isolated eggs, cemented	reproduction
+e4	clutches, cemented or fixed	reproduction
+e5	clutches, free	reproduction
+e6	clutches, in vegetation	reproduction
+e7	clutches, terrestrial	reproduction
+e8	asexual reproduction	reproduction
+f1	aquatic passive	dispersion
+f2	aquatic active	dispersion
+f3	aerial passive	dispersion
+f4	aerial active	dispersion
+g1	eggs, statoblasts	resistance
+g2	cocoons	resistance
+g3	housings against desiccation	resistance
+g4	diapause or dormancy	resistance
+g5	none	resistance
+j1	tegument	respiration
+j2	gill	respiration
+j3	plastron	respiration
+j4	spiracle	respiration
+j5	hydrostatic vesicle	respiration
+u1	flier	locomotion
+u2	surface swimmer	locomotion
+u3	full water swimmer	locomotion
+u4	crawler	locomotion
+u5	burrower	locomotion
+u6	interstitial	locomotion
+u7	temporarily attached	locomotion
+u8	permanently attached	locomotion
+h1	microorganisms	food
+h2	detritus < 1mm	food
+h3	dead plant >= 1mm	food
+h4	living microphytes	food
+h5	living macrophytes	food
+h6	dead animal >= 1mm	food
+h7	living microinvertebrates	food
+h8	living macroinvertebrates	food
+h9	vertebrates	food
+i2	deposit feeder	feeding_habit
+i3	shredder	feeding_habit
+i4	scraper	feeding_habit
+i5	filter-feeder	feeding_habit
+i6	piercer	feeding_habit
+i7	predator	feeding_habit
+i8	parasite	feeding_habit
+GRA	grazer	trophic preferences
+MIN	miner	trophic preferences
+XYL	xylophagous	trophic preferences
+SHR	shredder	trophic preferences
+GAT	gatherer-collector	trophic preferences
+AFF	active filterer	trophic preferences
+PFF	passive filterer	trophic preferences
+PRED	predator	trophic preferences
+PAR	parasite	trophic preferences
+OTHER	other	trophic preferences

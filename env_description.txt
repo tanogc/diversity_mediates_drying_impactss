@@ -1,0 +1,19 @@
+variable	description	unit
+ZFT	Zero flow total (annual dry duration)	days
+ZFP	Zero flow periods (annual dry frequency)	days
+ZFL	Duration of the antecedent zero-flow period	days
+RE	Time since last rewetting	days
+temp	Water temperature	ºC
+ph	pH	unitless
+cond	Conductivity	µS/cm
+do	Dissolved oxygen	mg/l
+srp	Soluble reactive phosphorous	mg/l
+din	Dissolved inorganic nitrogen	mg/l
+alt	Altitude (site)	m a.s.l.
+order	Stahler order	Stahler order
+basin	Name of the basin	unitless
+precip	Annual precipitation (site)	mm
+catch_area	Basin area	km2
+urb	Urban land cover (Corine 2006)	% cover
+agric	Agricultural land cover (Corine 2006)	% cover
+nat	Natural land cover (Corine 2006)	% cover
